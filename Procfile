@@ -1,1 +1,1 @@
-worker: python aptmdisbot.py
+worker: python finmain.py
