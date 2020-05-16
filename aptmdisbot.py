@@ -17,9 +17,9 @@ client = commands.Bot(command_prefix = '-------')
 async def on_message(message):
 #692990720113639434
 
-now = datetime.now()
+    now = datetime.now()
 
-dt_string = now.strftime("%H:%M:%S")
+    dt_string = now.strftime("%H:%M:%S")
 
 
 #when sign in comes from red
