@@ -4,3 +4,5 @@ A cross server discord bot I made for three clans to intercommunicate with each 
 has no use anymore hence why I decided to make this repo public.
 
 I made this in a hurry so please forgive the repetition. It's honestly not my proudest code.
+
+finmain.py is main.
